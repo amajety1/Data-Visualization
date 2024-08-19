@@ -27,7 +27,7 @@ This project features an interactive dashboard built using Looker Studio (Google
 
 ## Dashboard Link
 
-[View the Interactive Dashboard](<insert-your-dashboard-link-here>)
+[View the Interactive Dashboard](https://github.com/amajety1/Data-Visualization/blob/main/Untitled_Report.pdf)
 
 ## Getting Started
 
